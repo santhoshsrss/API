@@ -1,0 +1,27 @@
+
+/* h3{
+  color:crimson;
+  text-align: center;
+}
+p{
+  color: blue;
+  text-align: center;
+} */
+
+/* src/App.css */
+
+.App{
+  text-align: center;
+  margin: 2rem;
+  font-size:20px;
+  font-family: serif;
+}
+
+.curd-operation{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  width: max-width;
+  align-items: center;
+}
